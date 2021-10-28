@@ -1,0 +1,8 @@
+*   Activar una cuenta en google cloud
+*   Crear proyecto en google cloud
+*   Instalar GoogleCloudSDK
+    (https://cloud.google.com/sdk/docs/install)
+*   Ejecutar en la terminal:
+
+$ gcloud init
+$ gcloud app deploy app.yaml --project "Nombre del proyecto"
